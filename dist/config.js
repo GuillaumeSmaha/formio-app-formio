@@ -1,5 +1,5 @@
-var APP_URL = 'http://localhost:3010';
-var API_URL = 'http://localhost:3010';
+var APP_URL = 'http://localhost:3001';
+var API_URL = 'http://localhost:3001';
 
 // Parse query string
 var query = {};
